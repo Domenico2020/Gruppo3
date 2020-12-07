@@ -1,0 +1,10 @@
+[input]
+InDir = './data_in'
+InFile = 'logs.json'
+CodeLength = 6
+IndentJSON = 3
+IdFile = 'tabellaID.json'
+
+[output]
+OutDir = './data_out'
+OutFile = 'anonymous_logs.json'
